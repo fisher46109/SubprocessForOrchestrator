@@ -44,3 +44,4 @@ class AgentHandler:
     def send_start_info():
         """ Method to send info about start of process to agent"""
         print("BOT STARTED")
+

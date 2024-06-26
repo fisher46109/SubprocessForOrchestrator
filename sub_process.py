@@ -10,3 +10,4 @@ while True:
     if agent.stop_bot_flag():
         agent.send_result("")
         break
+
