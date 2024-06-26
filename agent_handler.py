@@ -1,6 +1,7 @@
 import sys
 import threading
 
+
 class AgentHandler:
     """ Class to handle communication between agent ad bot.
         To correct use:
